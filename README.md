@@ -30,12 +30,9 @@
 <p>It's an exercise to practice HTML and some CSS attributes</p>
 
 <a href="https://somentepio.github.io/treine.me" target="_blank">Here you can check the project online</a>
-<br>
+<br><br>
 <a href="https://somentepio.github.io/homepage-project-01" target="_blank">Here you can check the figma file</a>
-<!-- [Here you can check the project online](https://somentepio.github.io/treine.me)
-[Here you can check the figma file](https://somentepio.github.io/homepage-project-01) -->
 
-<br>
 <br>
 <h1> 🚀 Technologies</h1>
 <br>
