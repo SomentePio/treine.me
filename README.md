@@ -1,7 +1,7 @@
 
 
 </br>
-<h1 align="center"> Homepage - HTML&CSS</h1>
+<h1 align="center"> Treine.me - HTML&CSS</h1>
 </br>
 <p align="center">
 <!-- Developed with mentorship from <a href="https://github.com/maykbrito">@maykbrito</a> of RocketSeat <br/> -->
@@ -26,7 +26,7 @@
   <img alt="A layout floating on a green background" src=".github/thumb.jpg" width="100%">
 </p>
 
-</br>
+<!-- </br> -->
 </br>
 <h1>💻 Overwiew</h1>
 <br>
