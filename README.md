@@ -25,7 +25,7 @@
 
 </br>
 
-<h1>💻 Overwiew</h1>
+<h1>💻 Overview</h1>
 <br>
 <p>It's an exercise to practice HTML and some CSS attributes</p>
 
